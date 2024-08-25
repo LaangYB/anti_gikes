@@ -8,3 +8,4 @@ schedule
 requests
 Pyromod==1.5
 python-dotenv
+anti_gikes==0.1.0
